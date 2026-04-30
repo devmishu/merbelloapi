@@ -1,0 +1,172 @@
+{
+    "tiles": [
+        {
+            "id": "tile_001",
+            "title": "Ceramic Blue Tile",
+            "description": "Premium ceramic tile with blue glaze finish",
+            "image": "/images/tiles/tile_001.jpg",
+            "category": "ceramic",
+            "price": 45.99,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "featured": true,
+            "creator": "Marbello Studio",
+            "styleDescription": "A glossy minimalist ceramic tile with a soft blue glaze, ideal for modern bathrooms and kitchens.",
+            "tags": [
+                "Minimalist",
+                "Blue",
+                "Glossy",
+                "Modern"
+            ]
+        },
+        {
+            "id": "tile_002",
+            "title": "Matte Gray Porcelain Tile",
+            "description": "Elegant matte porcelain tile with smooth texture",
+            "image": "/images/tiles/tile_002.jpg",
+            "category": "porcelain",
+            "price": 52.5,
+            "currency": "USD",
+            "dimensions": "80x80 cm",
+            "material": "Porcelain",
+            "inStock": true,
+            "featured": true,
+            "creator": "Marbello Studio",
+            "styleDescription": "A sleek matte porcelain tile crafted for luxury interior floors with a subtle modern tone.",
+            "tags": [
+                "Matte",
+                "Gray",
+                "Luxury",
+                "Modern"
+            ]
+        },
+        {
+            "id": "tile_003",
+            "title": "Marble White Vein Tile",
+            "description": "Luxury white marble tile with natural gray veins",
+            "image": "/images/tiles/tile_003.jpg",
+            "category": "marble",
+            "price": 68.99,
+            "currency": "USD",
+            "dimensions": "120x60 cm",
+            "material": "Marble",
+            "inStock": true,
+            "featured": true,
+            "creator": "Marbello Studio",
+            "styleDescription": "Premium polished marble tile featuring elegant gray veining for timeless interiors.",
+            "tags": [
+                "Marble",
+                "White",
+                "Luxury",
+                "Elegant"
+            ]
+        },
+        {
+            "id": "tile_004",
+            "title": "Geometric Mosaic Tile",
+            "description": "Modern mosaic tile with geometric pattern",
+            "image": "/images/tiles/tile_004.jpg",
+            "category": "mosaic",
+            "price": 39.99,
+            "currency": "USD",
+            "dimensions": "30x30 cm",
+            "material": "Glass Mosaic",
+            "inStock": true,
+            "featured": true,
+            "creator": "Marbello Studio",
+            "styleDescription": "A bold geometric mosaic tile designed to create standout accent walls and backsplashes.",
+            "tags": [
+                "Geometric",
+                "Mosaic",
+                "Pattern",
+                "Bold"
+            ]
+        },
+        {
+            "id": "tile_005",
+            "title": "Terracotta Rustic Tile",
+            "description": "Warm rustic terracotta tile for earthy interiors",
+            "image": "/images/tiles/tile_005.jpg",
+            "category": "terracotta",
+            "price": 34.75,
+            "currency": "USD",
+            "dimensions": "45x45 cm",
+            "material": "Terracotta",
+            "inStock": true,
+            "featured": false,
+            "creator": "Marbello Studio",
+            "styleDescription": "Rustic terracotta tile with warm earthy tones, perfect for Mediterranean-inspired spaces.",
+            "tags": [
+                "Rustic",
+                "Terracotta",
+                "Warm",
+                "Earthy"
+            ]
+        },
+        {
+            "id": "tile_006",
+            "title": "Glossy Black Tile",
+            "description": "Reflective glossy black tile with premium finish",
+            "image": "/images/tiles/tile_006.jpg",
+            "category": "ceramic",
+            "price": 49.99,
+            "currency": "USD",
+            "dimensions": "60x60 cm",
+            "material": "Ceramic",
+            "inStock": false,
+            "featured": false,
+            "creator": "Marbello Studio",
+            "styleDescription": "A dramatic glossy black ceramic tile that adds bold sophistication to modern interiors.",
+            "tags": [
+                "Black",
+                "Glossy",
+                "Bold",
+                "Premium"
+            ]
+        },
+        {
+            "id": "tile_007",
+            "title": "Sand Beige Stone Tile",
+            "description": "Natural stone tile with soft beige texture",
+            "image": "/images/tiles/tile_007.jpg",
+            "category": "stone",
+            "price": 57.25,
+            "currency": "USD",
+            "dimensions": "90x45 cm",
+            "material": "Natural Stone",
+            "inStock": true,
+            "featured": false,
+            "creator": "Marbello Studio",
+            "styleDescription": "Natural stone tile in soft beige tones for calm and earthy interior styling.",
+            "tags": [
+                "Stone",
+                "Beige",
+                "Natural",
+                "Soft"
+            ]
+        },
+        {
+            "id": "tile_008",
+            "title": "Ocean Teal Subway Tile",
+            "description": "Glossy subway tile with ocean teal finish",
+            "image": "/images/tiles/tile_008.jpg",
+            "category": "subway",
+            "price": 29.99,
+            "currency": "USD",
+            "dimensions": "10x20 cm",
+            "material": "Ceramic",
+            "inStock": true,
+            "featured": false,
+            "creator": "Marbello Studio",
+            "styleDescription": "Ocean-inspired teal subway tile ideal for vibrant kitchen and bathroom backsplashes.",
+            "tags": [
+                "Teal",
+                "Subway",
+                "Ocean",
+                "Glossy"
+            ]
+        }
+    ]
+}
