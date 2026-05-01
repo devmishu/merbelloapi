@@ -46,7 +46,7 @@
             "id": "tile_003",
             "title": "Marble White Vein Tile",
             "description": "Luxury white marble tile with natural gray veins",
-            "image": "/images/tiles/tile_003.jpg",
+            "image": "/images/tile_003.jpg",
             "category": "marble",
             "price": 68.99,
             "currency": "USD",
